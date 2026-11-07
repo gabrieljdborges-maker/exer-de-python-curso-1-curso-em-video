@@ -1,0 +1,8 @@
+name=input("Qual é seu nome ? ")
+print('Olá',name, 'é um prazer em te conhecer!')
+idade=input('Qual é a sua idade ? ')
+peso=input('Qual é a sua peso ? ')
+dia=input('Qual é a sua dia do seu aniversario ? ')
+mes=input('Qual é a sua mes do seu aniversario ? ')
+ano=input('Qual é a sua ano do seu aniversario ? ')
+print('Olá',name,', com as informações que você compatilhou no sistema temos que, sua idade é de ',idade,'seu peso é de', peso,'kg e seu aniversario é', dia,mes,ano)

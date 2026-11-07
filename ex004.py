@@ -1,0 +1,8 @@
+a1=(input('Digite algo '))
+print('é um numero ? ',a1.isnumeric())
+print('é um alfabético', a1.isalpha())
+print('Está em minuscula ?',a1.islower())
+print('Está em MAIUSCULA ?',a1.isupper())
+print('é alfanumérico?', a1.isalnum())
+print('é um numero decimal ', a1.isdecimal())
+print('Só tem espaço ?', a1.isspace())
