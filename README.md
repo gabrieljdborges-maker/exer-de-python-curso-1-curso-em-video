@@ -1,0 +1,1 @@
+# exer-de-python-curso-1-curso-em-video
